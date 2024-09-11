@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 I am a UI developer.<br>🔭 Currently working on a web application for interview preparation.<br>🤝 Looking forward to collaborate on React or StencilJS projects.<br>⏲ Going to be a MERN stack developer soon.<br>
+- 👨‍💻 A Frontend Developer.
+- 🤝 Always ready to collaborate on React or StencilJS projects.
+- ⏲ Exploring and gaining skills of backend development.
 
 
 ## 🌐 Socials:
