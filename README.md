@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 ## 💫 About Me:
 - 👨‍💻 A Frontend Developer.
-- 🤝 Always ready to collaborate on React or StencilJS projects.
+- 🤝 Always ready to collaborate on Angular, React or StencilJS projects.
 - ⏲ Exploring and gaining skills of backend development.
 
 
 ## 💻 Tech Stack:
 - JavaScript
 - TypeScript
+- Angular
+- RxJS
+- NgRx
 - ReactJs
 - Redux
 - React Router
 - StencilJS
-- Angular
-- RxJS
 - HTML CSS Tailwind Bootstrap Material UI
 - Highcharts, Ag-Grid and Recharts (for data visualization)
 - SQL
